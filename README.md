@@ -18,6 +18,8 @@ Initially, there was a lot of use of non-semantic elements which negatively impa
 
 Creative alt attributes were added to image tags and the overall flow of the CSS was changed to improve consistency and readability.
 A lot of redundant css was removed and condensed to enhance site performance (About 62 lines of repeated code).
+
+
 ![image](https://user-images.githubusercontent.com/114792819/196054078-25969f90-4c03-4ce4-8c15-5cb64bda7de9.png)
 
 CSS Before 
